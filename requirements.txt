@@ -2,6 +2,8 @@ dash
 numpy
 pandas
 plotly
+plotly-orca
 scipy
 symfit
 lmfit
+psutil
